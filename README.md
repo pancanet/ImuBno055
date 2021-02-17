@@ -25,11 +25,11 @@ isinya :
   - float64 y --> quat.y
   - float64 z --> quat.z
   - float64 w --> quat.w
--  angular_velocity:
-  - float64 x --> VECTOR_EULER.x
+- angular_velocity:
+  - float64 x --> VECTOR_EULER.x  
   - float64 y --> VECTOR_EULER.y
   - float64 z --> VECTOR_EULER.z
--  linear_acceleration:
+- linear_acceleration:
   - float64 x --> VECTOR_EULER.x
   - float64 y --> VECTOR_EULER.y
   - float64 z --> VECTOR_EULER.z
