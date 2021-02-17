@@ -30,9 +30,9 @@ isinya :
   - float64 y --> VECTOR_EULER.y
   - float64 z --> VECTOR_EULER.z
 - linear_acceleration:
-  - float64 x --> VECTOR_EULER.x
-  - float64 y --> VECTOR_EULER.y
-  - float64 z --> VECTOR_EULER.z
+  - float64 x --> VECTOR_LINEARACCEL.x
+  - float64 y --> VECTOR_LINEARACCEL.y
+  - float64 z --> VECTOR_LINEARACCEL.z
 
 # PENTING
 - DEKLARASIKAN #DEFINE USE_USBCON di arduino IDE sebelum Deklarasi include library, hal ini diperlukan untuk beberapa mikon yang menggunakan sam3x atau sejenis yang mengalami error : <br>
