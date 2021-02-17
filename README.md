@@ -8,6 +8,7 @@ isinya :
 - float64 x --> linear_acceleration.x
 - float64 y --> linear_acceleration.y
 - float64 z --> linear_acceleration.z <br>
+
 topic 2 : "/Imu/euler" <br>
 isinya : 
 - float64 x --> angular_velocity.x
